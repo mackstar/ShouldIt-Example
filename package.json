@@ -2,13 +2,14 @@
   "name": "ShouldIt-Example",
   "version": "1.0.0",
   "description": "Should It-Example",
+  "private": true,
   "dependencies": {
     "grunt-karma": "~0.8.3",
     "karma": "~0.12.16",
     "karma-jasmine": "~0.2.2",
     "karma-phantomjs-launcher": "~0.1.4",
     "karma-spec-json-reporter ": "~0.0.7",
-    "spec-detective": "~0.1.5",
+    "private-repo": "git+ssh://git@github.com:bbc-sport/ShouldIT.git#b521fa1b5949b862d9e4b0c69cf735339e4adcbc",
     "xml2js": "~0.4.4"
   },
   "devDependencies": {

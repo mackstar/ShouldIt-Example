@@ -1,4 +1,10 @@
-Running Ruby Tests
+# Installation
+
+```
+npm install
+```
+
+## Running Ruby Tests
 
 ```
 bundle install
